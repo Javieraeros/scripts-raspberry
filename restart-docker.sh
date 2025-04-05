@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SERVICES="photoprism supysonic plex nextcloud"
+SERVICES="immich gokapi audiobookshelf notemark jellyfin homepage mediatracker"
 RESULTS=""
 
 for SERVICE in $SERVICES; do
